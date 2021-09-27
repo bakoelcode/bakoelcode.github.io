@@ -2,9 +2,9 @@
 layout: post
 title: Penjelasan Tentang Mesin Perontok Padi
 subtitle: Apa itu mesin perontok padi dan keuntungan menggunakan mesin perontok padi
-cover-img: /assets/img/path.jpg
-thumbnail-img: /assets/img/thumb.png
-share-img: /assets/img/path.jpg
+cover-img: /assets/img/astromesin.png
+thumbnail-img: /assets/img/astromesin(1.png
+share-img: /assets/img/astromesin(1).png
 tags: [mesin perontok padi, review mesin industri]
 ---
 
